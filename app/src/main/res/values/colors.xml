@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="ColorPrimary">#00897B</color>
+    <color name="ColoPrimaryLight">#008372</color>
+    <color name="ColorPrimaryDark">#00695C</color>
+    <color name="ColorPrimaryDarker">#005046</color>
+    <color name="ColorPrimaryDarkerDarker">#00362f</color>
+    <color name="ColorPrimaryDarkOptional">#166c6c</color>
+    <color name="LightGrayishCyan">#fdfefe</color>
+    <color name="LightGrayishGreen">#fdfefd</color>
+    <color name="LightGrayishGreenopt">#fcfdfd</color>
+
+
+    <color name="BlackGreen">#001a00</color>
+    <color name="BlackGray">#333333</color>
+    <color name="BlackGrayLighter">#3d3d3d</color>
+    <color name="BlackGrayLighter2">#474747</color>
+
+    <color name="Surface">#fcfcfc</color>
+    <color name="Surface2">#fff3f3f3</color>
+    <color name="optionalSurface">#fefffe</color>
+    <color name="VeryBrightGray">#fefefe</color>
+    <color name="Pale">#fcfbff</color>
+    <color name="LightGrayishBlue">#fcfcfd</color>
+    <color name="tabsScrollColor">#004D40</color>
+
+</resources>
